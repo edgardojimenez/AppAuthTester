@@ -29683,7 +29683,7 @@
 	var ReactDOM = reactDom.exports;
 
 	function App() {
-	  return /*#__PURE__*/React.createElement("p", null, "Rollup + TypeScript + React = \u2764\uFE0F");
+	  return /*#__PURE__*/React.createElement("p", null, "Rollup + TypeScript + React = \u2764 cool");
 	}
 
 	ReactDOM.render( /*#__PURE__*/React.createElement(App, null), document.getElementById('app'));
